@@ -1,3 +1,3 @@
 # tech-homework-1
 
-I like blueberries.
+I like blueberries and strawberries.
